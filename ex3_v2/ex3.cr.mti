@@ -1,0 +1,15 @@
+D:/Project/ex3/tb.v {1 {vlog -work work -stats=none D:/Project/ex3/tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} D:/Project/ex3/LCD_CTRL.v {1 {vlog -work work -stats=none {D:\Project\ex3\LCD_CTRL.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LCD_CTRL
+
+Top level modules:
+	LCD_CTRL
+
+} {} {}}
